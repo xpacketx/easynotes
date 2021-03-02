@@ -12,6 +12,10 @@
 > This is React project created to discover a magic world of React functional components using [React Hooks](https://reactjs.org/docs/hooks-intro.html).
 The application provides the ability to fetch, post and delete notes using cloud-hosted [Firebase API](https://firebase.google.com/).
 
+### Screenshots
+***
+![easynotes](https://user-images.githubusercontent.com/44978672/109604690-0d0a4180-7b78-11eb-98e7-dd79a791fcdf.jpg)
+
 ### Built With
 ***
 * [React](https://reactjs.org/docs/getting-started.html) - a popular JS front-end library for building composable and highly reusable component-based UIs 
