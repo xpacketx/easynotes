@@ -1,8 +1,9 @@
 ## Table of Contents
 1. [General Info](#general-info)
-2. [Built With](#built-with)
-3. [Setup](#setup)
-4. [Features](@features)
+2. [Screenshots](#screenshots)
+3. [Built With](#built-with)
+4. [Setup](#setup)
+5. [Features](#features)
 
 ### General Info
 ***
@@ -10,8 +11,6 @@
 > This project was created using [Create React App](https://github.com/facebook/create-react-app) and [Bootstrap](https://getbootstrap.com/)
 > This is React project created to discover a magic world of React functional components using [React Hooks](https://reactjs.org/docs/hooks-intro.html).
 The application provides the ability to fetch, post and delete notes using cloud-hosted [Firebase API](https://firebase.google.com/).
-
-![](images/easynotes.jpg)
 
 ### Built With
 ***
@@ -26,9 +25,10 @@ The application provides the ability to fetch, post and delete notes using cloud
 To clone and run this application, you need npm installed on your computer. From your command line:
 ````sh
 # Clone the repository
-$ git clone https://github.com/
+$ git clone https://github.com/xpacketx/easynotes.git
+
 # Go into the repository
-$ cd ..
+$ cd easynotes
 
 # Install dependencies
 $ npm install
