@@ -26,7 +26,7 @@ The application provides the ability to fetch, post and delete notes using cloud
 
 ### Setup
 ***
-To clone and run this application, you need npm installed on your computer. From your command line:
+To clone and run this application, you need npm installed on your computer and Firebase account. From your command line:
 ````sh
 # Clone the repository
 $ git clone https://github.com/xpacketx/easynotes.git
@@ -36,6 +36,14 @@ $ cd easynotes
 
 # Install dependencies
 $ npm install
+
+# Sign up to your Firebase account and add a new project `react-notes`
+# Continue creating a realtime database `react-notes` and copy the `URL` given as a reference to this database
+# Go to the root directory of the clone application and create a new system file 
+.env.local
+
+# In `.env.local` create a new system constatnt passing in the `URL` 
+REACT_APP_DB_URL = <URL obtained from a new database>
 
 # Run the app
 $ npm start  
