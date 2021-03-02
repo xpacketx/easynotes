@@ -37,13 +37,13 @@ $ cd easynotes
 # Install dependencies
 $ npm install
 
-# Sign up to your Firebase account and add a new project `react-notes`
-# Continue creating a realtime database `react-notes` and copy the `URL` given as a reference to this database
+# Sign up to your Firebase account and add a new project 'react-notes'
+# Continue creating a realtime database 'react-notes' and copy the 'URL' given as a reference to this database
 # Go to the root directory of the clone application and create a new system file 
 .env.local
 
-# In `.env.local` create a new system constatnt passing in the `URL` 
-REACT_APP_DB_URL = <URL obtained from a new database>
+# In '.env.local' create a new system constant passing in the 'URL' 
+REACT_APP_DB_URL = <URL obtained as a reference to a new database>
 
 # Run the app
 $ npm start  
