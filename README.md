@@ -6,7 +6,7 @@
 5. [Features](#features)
 
 ### General Info
-##### `EasyNotes`
+#### ==EasyNotes==
 > *This project was created using [Create React App](https://github.com/facebook/create-react-app) and [Bootstrap](https://getbootstrap.com/)
 > This is React project created to discover a magic world of React functional components using [React Hooks](https://reactjs.org/docs/hooks-intro.html).
 The application provides the ability to fetch, post and delete notes using cloud-hosted [Firebase API](https://firebase.google.com/).*
