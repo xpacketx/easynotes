@@ -41,7 +41,7 @@ $ npm install
 # In '.env.local' create a new system constant passing in the 'URL' 
 REACT_APP_DB_URL = <URL obtained as a reference to a new database>
 
-# Run the app
+# Run the app and start adding a new notes into your DB
 $ npm start  
 ````
 
