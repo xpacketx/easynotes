@@ -6,14 +6,15 @@
 
 ### General Info
 ### `#easynotes`
-> *This Web app was created using [Create React App](https://github.com/facebook/create-react-app) and [Bootstrap](https://getbootstrap.com/) to discover a magic world of React functional components using [React Hooks](https://reactjs.org/docs/hooks-intro.html).
-The application provides the ability to fetch, post and delete notes using cloud-hosted [Firebase API](https://firebase.google.com/).*
+> *This Web app was created using [Create React App](https://github.com/facebook/create-react-app) and Bootstrap to discover a magic world of React functional components using React Hooks.
+> The application provides the ability to fetch, post and delete notes using cloud-hosted Firebase API.*
 
 ### Built With
 * [React](https://reactjs.org/docs/getting-started.html) - a popular JS front-end library for building composable and highly reusable component-based UIs 
+* [React Hooks](https://reactjs.org/docs/hooks-intro.html) - are functions that let you 'hook into' React state and lifecycle features from function components
 * [react-router](https://www.digitalocean.com/community/tutorials/how-to-handle-routing-in-react-apps-with-react-router) - a library that provides the core routing functionality for React Router
-* Using Firebase API to hosting and sync data in realtime.
-* Bootstrap - CSS framework providing extensive list of components and JavaScript based design templates
+* [Firebase API](https://firebase.google.com/) hosting and sync data in realtime.
+* [Bootstrap](https://getbootstrap.com/) - CSS framework providing extensive list of components and JavaScript based design templates
 * node-sass - a library that provides sass preprocessor functionality binding for Node.js
 
 ### Setup
