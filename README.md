@@ -1,13 +1,16 @@
 ## Table of Contents
 1. [General Info](#general-info)
-2. [Built With](#built-with)
-3. [Setup](#setup)
-4. [Features](#features)
+2. [Screenshot](#screenshot) 
+3. [Built With](#built-with)
+4. [Setup](#setup)
+5. [Features](#features)
 
 ## General Info
 ### `#easynotes`
 > *This Web app was created using [Create React App](https://github.com/facebook/create-react-app) and Bootstrap to discover a magic world of React functional components using React Hooks.
 > The application provides the ability to fetch, post and delete notes using cloud-hosted Firebase API.*
+
+## Screenshot
 
 ## Built With
 * [React](https://reactjs.org/docs/getting-started.html) - a popular JS front-end library for building composable and highly reusable component-based UIs 
