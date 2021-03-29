@@ -11,6 +11,7 @@
 > The application provides the ability to fetch, post and delete notes using cloud-hosted Firebase API.*
 
 ## Screenshot
+![easynotes](https://user-images.githubusercontent.com/44978672/112792865-f6400780-90af-11eb-8869-0314537686ab.jpg)
 
 ## Built With
 * [React](https://reactjs.org/docs/getting-started.html) - a popular JS front-end library for building composable and highly reusable component-based UIs 
